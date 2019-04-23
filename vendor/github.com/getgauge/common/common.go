@@ -36,7 +36,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dmotylev/goproperties"
+	properties "github.com/dmotylev/goproperties"
 )
 
 const (
